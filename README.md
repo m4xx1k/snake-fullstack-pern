@@ -1,6 +1,6 @@
 # FRONT-END BY ME(github.com/m4xx1k)
 # BACK-END BY github.com/AndriyDerk/
-# snake-fullstack-pern
+# [snake-fullstack-pern](https://front-snake.herokuapp.com)
 # stack:
 ## react, mobx, react-router-dom, axios, express, jsonwebtoken,sequelize
 
